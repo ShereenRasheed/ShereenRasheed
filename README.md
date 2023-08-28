@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Primeng](https://img.shields.io/badge/-Primeng-05122A?style=flat&logo=primeng)&nbsp;
+![PrimeNg](https://img.shields.io/badge/-PrimeNg-05122A?style=flat&logo=Primeng)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
 

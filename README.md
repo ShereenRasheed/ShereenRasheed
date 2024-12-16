@@ -12,8 +12,8 @@
 </p> 
 
 - 🏢 I'm a Software Engineer at soltech
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, typeScript, and angular or anything related to web development.
+- 👩‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 😊 Ask me about my experience with JavaScript, typeScript, and angular or anything related to web development.
 
 
 ### 🛠 &nbsp;Tech Stack

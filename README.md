@@ -19,7 +19,7 @@
   ### Connect with Me :
 
 <a href="linkedin.com/in/shereen-rasheed-3738a817b" target="_blank"><img src="https://img.shields.io/badge/-Shereen%20Rasheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/978296460" target="_blank"><img src="https://img.shields.io/badge/-Shereen%20Rasheed?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/978296460" target="_blank"><img src="https://img.shields.io/badge/-Shereen Rasheed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
